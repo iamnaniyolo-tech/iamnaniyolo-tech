@@ -155,18 +155,31 @@
 ## 📂 Open-Source Repositories
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=iamnaniyolo-tech&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=iamnaniyolo-tech&theme=neon" alt="iamnaniyolo-tech projects section" />
-  </picture>
+  <a href="https://github.com/iamnaniyolo-tech/Chaos-Enhanced-Prototypical-Networks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnaniyolo-tech&repo=Chaos-Enhanced-Prototypical-Networks&bg_color=0d1117&border_color=00f0ff&title_color=00f0ff&text_color=a0aec0&icon_color=00ff88" alt="Chaos-Enhanced-Prototypical-Networks" />
+  </a>
+  <a href="https://github.com/iamnaniyolo-tech/Welding-defect-classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnaniyolo-tech&repo=Welding-defect-classification&bg_color=0d1117&border_color=00f0ff&title_color=00f0ff&text_color=a0aec0&icon_color=00ff88" alt="Welding-defect-classification" />
+  </a>
 </p>
 
-* **[Chaos-Enhanced-Prototypical-Networks](https://github.com/iamnaniyolo-tech/Chaos-Enhanced-Prototypical-Networks)** — Few-Shot Learning with Chaos Theory feature perturbations for medical image classification[cite: 1].
-* **[Welding-defect-classification](https://github.com/iamnaniyolo-tech/Welding-defect-classification)** — Industrial quality control vision pipeline detecting 6+ welding defect types using Fast R-CNN & Detectron2[cite: 1].
-* **[Coconut-disease-classification](https://github.com/iamnaniyolo-tech/Coconut-disease-classification)** — Comparative CNN classification model suite (DenseNet-201, ResNet-50, EfficientNet)[cite: 1].
-* **[civil-report-backend](https://github.com/iamnaniyolo-tech/civil-report-backend)** / **[civil-report-frontend](https://github.com/iamnaniyolo-tech/civil-report-frontend)** — Full-stack civil engineering site report management platform.
-* **[site-report-generator](https://github.com/iamnaniyolo-tech/site-report-generator)** — Automated site inspection report compiler and data workflow tool.
-* **[Bigmart_analysis](https://github.com/iamnaniyolo-tech/Bigmart_analysis)** — Retail sales exploratory data analysis & predictive statistical modeling workflows.
+<p align="center">
+  <a href="https://github.com/iamnaniyolo-tech/Coconut-disease-classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnaniyolo-tech&repo=Coconut-disease-classification&bg_color=0d1117&border_color=00f0ff&title_color=00f0ff&text_color=a0aec0&icon_color=00ff88" alt="Coconut-disease-classification" />
+  </a>
+  <a href="https://github.com/iamnaniyolo-tech/civil-report-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnaniyolo-tech&repo=civil-report-backend&bg_color=0d1117&border_color=00f0ff&title_color=00f0ff&text_color=a0aec0&icon_color=00ff88" alt="civil-report-backend" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iamnaniyolo-tech/site-report-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnaniyolo-tech&repo=site-report-generator&bg_color=0d1117&border_color=00f0ff&title_color=00f0ff&text_color=a0aec0&icon_color=00ff88" alt="site-report-generator" />
+  </a>
+  <a href="https://github.com/iamnaniyolo-tech/Bigmart_analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamnaniyolo-tech&repo=Bigmart_analysis&bg_color=0d1117&border_color=00f0ff&title_color=00f0ff&text_color=a0aec0&icon_color=00ff88" alt="Bigmart_analysis" />
+  </a>
+</p>
 
 ---
 
