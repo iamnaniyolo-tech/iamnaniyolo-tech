@@ -1,11 +1,5 @@
 # Murarisetty V Sai Kartheek
 
-> AI/ML Engineer | Computer Vision & Edge AI Specialist | Generative AI & Local LLMs
-
-**Theme:** Neon · **Style:** Detailed · **Agent:** AI/ML & Computer Vision Engineer
-
-## Header
-Hi, I'm **Murarisetty V Sai Kartheek** (`iamnaniyolo-tech`). Welcome to my GitHub profile!
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=iamnaniyolo-tech&theme=neon&mode=light" />
@@ -13,8 +7,13 @@ Hi, I'm **Murarisetty V Sai Kartheek** (`iamnaniyolo-tech`). Welcome to my GitHu
   </picture>
 </p>
 
-## About Me
-Associate Data Scientist Intern and Computer & Communication Engineering undergraduate (Data Science Minor) specializing in Generative AI, Computer Vision architectures, and Edge AI deployment. Experienced in engineering sub-second latency voice agents, air-gapped Text-to-SQL LLM pipelines, real-time PPE defect detection models, and full-stack SaaS platforms.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Computer+Vision+Engineer;Generative+AI+%26+Local+LLM+Developer;Edge+AI+%26+IoT+Systems+Architect;Associate+Data+Scientist+Intern" alt="Typing SVG" />
+</p>
+
+---
+
+## ⚡ About Me
 
 <p align="center">
   <picture>
@@ -23,50 +22,137 @@ Associate Data Scientist Intern and Computer & Communication Engineering undergr
   </picture>
 </p>
 
-## Skills
-* **Core Domains:** Computer Vision & Object Detection, Generative AI & LLMs, Deep Learning & Machine Learning, Natural Language Processing (NLP), Data Science & Predictive Analytics
-* **System & Architecture:** Text-to-SQL Architecture, RESTful API & Microservices, QA Automation & Test Scripting, Defect Management & Failure Scenario Analysis
-* **Programming Languages:** Python, SQL, C++, Java
+---
 
-## Frameworks
-* **AI, ML & Vision:** PyTorch, TensorFlow, OpenCV, YOLOv8, Fast R-CNN, Detectron2, Scikit-Learn
-* **Web Development & State:** FastAPI, React.js, Next.js, Redux Toolkit, Streamlit, Tailwind CSS
+## 💻 Skills & Core Domains
 
-## Tools & Technologies
-* **Cloud & DevOps:** Git & GitHub, Linux / Unix Environments, Docker, CI/CD Pipelines & Version Control
-* **Databases & APIs:** PostgreSQL, Plivo Telephony API, WhatsApp API
-* **Data Annotation & Tools:** CVAT (Computer Vision Annotation Tool), Jupyter Notebooks
-* **Hardware & IoT:** ESP32 & ESP8266 Microcontrollers, Arduino, Edge Computing Platforms, Sensor Integration (Sound, Moisture, GPS, IMU)
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer_Vision-00F0FF?style=for-the-badge&logo=opencv&logoColor=000" />
+  <img src="https://img.shields.io/badge/Generative_AI_%26_LLMs-00FF88?style=for-the-badge&logo=openai&logoColor=000" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF007F?style=for-the-badge&logo=pytorch&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Natural_Language_Processing-00F0FF?style=for-the-badge&logo=python&logoColor=000" />
+  <br/>
+  <img src="https://img.shields.io/badge/Text--to--SQL_Architecture-00FF88?style=for-the-badge&logo=postgresql&logoColor=000" />
+  <img src="https://img.shields.io/badge/Edge_AI_%26_IoT-FF007F?style=for-the-badge&logo=arduino&logoColor=fff" />
+  <img src="https://img.shields.io/badge/QA_Automation-00F0FF?style=for-the-badge&logo=githubactions&logoColor=000" />
+</p>
 
-## Publications
-* **Enhanced Coconut Tree Disease Classification Using ResNet-50, EfficientNet-B0, and DenseNet-201**  
-  *IEEE INCIP 2025* — Achieved 99.85% accuracy in classifying coconut tree diseases using CNN architectures with custom activation evaluation and feature extraction for edge deployment.
-* **Smart Cradle: A Wi-Fi-Enabled Solution for Automated Infant Care**  
-  *IEEE INCIP 2025* — Designed an IoT infant monitoring ecosystem featuring ESP8266 integration, automated cry/moisture detection, auto-swinging servo mechanisms, and a live web management portal.
+### 🎯 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-## Projects & Systems
+---
 
-### Featured & Applied AI Systems
-* **Autonomous Voice Agent Platform**  
-  Engineered a sub-second latency voice AI agent using OpenAI LLMs, Plivo Telephony, and STT/TTS pipelines for automated outbound sales and lead qualification with WhatsApp API integrations.
-* **Offline Banking Text-to-SQL Assistant**  
-  Fine-tuned local LLM architectures with schema matching to translate complex natural language queries into executable SQL for multi-table PostgreSQL databases in a 100% air-gapped system.
-* **Construction Safety Edge AI**  
-  Fine-tuned YOLOv8, OpenCV, and PyTorch models for edge inference to continuously monitor active industrial sites for PPE compliance (helmets, gloves, vests, harnesses) across live video streams.
-* **AI Talent Evaluation Platform**  
-  Built a unified candidate assessment SaaS ecosystem utilizing React, Next.js, Redux Toolkit, real-time computer vision proctoring feeds, and interactive coding sandboxes.
+## 🚀 Frameworks & Libraries
 
-### Open-Source Repositories
-* **[Chaos-Enhanced-Prototypical-Networks](https://github.com/iamnaniyolo-tech/Chaos-Enhanced-Prototypical-Networks)**  
-  Few-Shot Learning framework combining Prototypical Networks with Chaos Theory feature perturbations for medical image classification (X-rays, MRIs).
-* **[Welding-defect-classification](https://github.com/iamnaniyolo-tech/Welding-defect-classification)**  
-  Industrial quality control pipeline using Fast R-CNN and Detectron2 trained on a custom 2,000+ image CVAT dataset to detect 6+ welding defect types.
-* **[Coconut-disease-classification](https://github.com/iamnaniyolo-tech/Coconut-disease-classification)**  
-  Deep learning classification model comparative analysis across DenseNet-201, ResNet-50, and EfficientNet architectures.
-* **[civil-report-backend](https://github.com/iamnaniyolo-tech/civil-report-backend) / [civil-report-frontend](https://github.com/iamnaniyolo-tech/civil-report-frontend)**  
-  Full-stack civil engineering site report management platform and automated report generator utility.
-* **[Bigmart_analysis](https://github.com/iamnaniyolo-tech/Bigmart_analysis)**  
-  Exploratory data analysis, statistical modeling, and sales prediction workflows on retail datasets.
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00F0FF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Fast_R--CNN-FF007F?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Detectron2-00FF88?style=for-the-badge&logo=facebook&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_/_Unix-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CVAT-00F0FF?style=for-the-badge&logo=cvat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plivo_Telephony-00FF88?style=for-the-badge&logo=phone&logoColor=black" />
+  <img src="https://img.shields.io/badge/ESP32_/_ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+---
+
+## 📜 Publications
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌴 Coconut Tree Disease Classification</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/IEEE_INCIP_2025-00F0FF?style=flat-square&logo=ieee&logoColor=black" />
+        <img src="https://img.shields.io/badge/Accuracy-99.85%25-00FF88?style=flat-square" />
+      </p>
+      <p>Achieved <b>99.85% accuracy</b> classifying 5 coconut tree diseases using ResNet-50, EfficientNet-B0, and DenseNet-201. Evaluated loss landscapes & activation functions (ReLU, Swish, ELU) for real-time field deployment.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">👶 Smart Cradle: Wi-Fi Infant Care</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/IEEE_INCIP_2025-FF007F?style=flat-square&logo=ieee&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT-ESP8266-00F0FF?style=flat-square" />
+      </p>
+      <p>Automated infant monitoring system with <b>ESP8266</b>, real-time sound/moisture detection, automated servo swinging mechanism, and a responsive web portal for caregiver notifications.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Featured Production Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>🎙️ Autonomous Voice Agent Platform</b>
+      <br/>
+      <img src="https://img.shields.io/badge/OpenAI_LLM-00F0FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Plivo_API-00FF88?style=flat-square" />
+      <img src="https://img.shields.io/badge/WhatsApp_API-FF007F?style=flat-square" />
+      <p>Sub-second latency voice AI agent for automated outbound sales, lead qualification, and real-time STT/TTS call orchestration deployed with B2B client validation.</p>
+    </td>
+    <td width="50%">
+      <b>🏦 Air-Gapped Banking Text-to-SQL Assistant</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Local_LLM-00FF88?style=flat-square" />
+      <img src="https://img.shields.io/badge/PostgreSQL-00F0FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Air--Gapped-FF007F?style=flat-square" />
+      <p>Fine-tuned local LLM converting complex natural language queries into executable multi-table SQL queries with custom schema matching for 100% data privacy.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🦺 Construction Safety Edge AI</b>
+      <br/>
+      <img src="https://img.shields.io/badge/YOLOv8-FF007F?style=flat-square" />
+      <img src="https://img.shields.io/badge/OpenCV-00F0FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Edge_Inference-00FF88?style=flat-square" />
+      <p>Real-time edge computer vision pipeline for monitoring active industrial sites, tracking PPE compliance (helmets, gloves, vests, harnesses) on live video feeds.</p>
+    </td>
+    <td width="50%">
+      <b>🎓 AI Talent Evaluation SaaS Platform</b>
+      <br/>
+      <img src="https://img.shields.io/badge/React.js-00F0FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Next.js-00FF88?style=flat-square" />
+      <img src="https://img.shields.io/badge/CV_Proctoring-FF007F?style=flat-square" />
+      <p>Unified recruitment ecosystem combining AI video proctoring, candidate sourcing, interactive coding sandboxes, and automated evaluation workflows.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Open-Source Repositories
 
 <p align="center">
   <picture>
@@ -75,7 +161,16 @@ Associate Data Scientist Intern and Computer & Communication Engineering undergr
   </picture>
 </p>
 
-## GitHub Stats
+* **[Chaos-Enhanced-Prototypical-Networks](https://github.com/iamnaniyolo-tech/Chaos-Enhanced-Prototypical-Networks)** — Few-Shot Learning with Chaos Theory feature perturbations for medical image classification[cite: 1].
+* **[Welding-defect-classification](https://github.com/iamnaniyolo-tech/Welding-defect-classification)** — Industrial quality control vision pipeline detecting 6+ welding defect types using Fast R-CNN & Detectron2[cite: 1].
+* **[Coconut-disease-classification](https://github.com/iamnaniyolo-tech/Coconut-disease-classification)** — Comparative CNN classification model suite (DenseNet-201, ResNet-50, EfficientNet)[cite: 1].
+* **[civil-report-backend](https://github.com/iamnaniyolo-tech/civil-report-backend) / [civil-report-frontend](https://github.com/iamnaniyolo-tech/civil-report-frontend)** — Full-stack civil engineering site report management application.
+* **[Bigmart_analysis](https://github.com/iamnaniyolo-tech/Bigmart_analysis)** — Retail sales exploratory data analysis & predictive statistical modeling workflows.
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=iamnaniyolo-tech&theme=neon&mode=light" />
@@ -83,7 +178,10 @@ Associate Data Scientist Intern and Computer & Communication Engineering undergr
   </picture>
 </p>
 
-## Connect
+---
+
+## 📫 Connect With Me
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=iamnaniyolo-tech&theme=neon&mode=light" />
